@@ -16,6 +16,6 @@ nav_order: 3
 
 ## Занятие 3. [📄 Материалы](/presentations/3.pdf). [📝 Записи](/notes/3.pdf).
 
+| Метод главных компонент        | Практика: Eigenfaces. [🐍 code](){: .btn}    |
 | Матричное дифференцирование.        | Практика: Матричное дифференцирование. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/2_1.ipynb){: .btn}   [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/2_2.ipynb){: .btn}     |
 | Автоматическое дифференцирование. Вычислительный граф. | Практика: работа с библиотеками автоматического дифференцирования. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/2_3.ipynb){: .btn}       |
-| Метод главных компонент        | Практика: Eigenfaces. [🐍 code](){: .btn}    |
