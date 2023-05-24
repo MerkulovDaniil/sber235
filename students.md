@@ -6,6 +6,7 @@ nav_order: 4
 | Дерзнувший знать     | Ноутбук с домашкой | Зачет |
 |----------------------|:------------------:|:---:|
 | Александр Руснак    | [🐍 Code](https://colab.research.google.com/drive/1qeZndWD3o_EwuEOlDAuaoUuD-qYUk_5Q?usp=sharing){: .btn } | |
+| Александр Штраух-Адамский | [🐍 Code](https://colab.research.google.com/drive/1zReyZLJmyENaQDwtWdXhHh231G2F7CCe?usp=sharing){: .btn } | |
 | Алексей Миронов    | [🐍 Code](https://colab.research.google.com/drive/1kThfp72T1qg2uHqcIWDM_EKaC74srFYg?usp=share_link){: .btn } | |
 | Алексей Чукеев   | [🐍 Code](https://colab.research.google.com/drive/1YDV-qnK6ui7Wv0Xu_OAsRP2hgUaIWJT2?usp=share_link){: .btn } | |
 | Андрей Резников    | [🐍 Code](https://colab.research.google.com/drive/1DNhPX0WBbCglyWMF7BejZNo1WmQnqO3r?usp=sharing){: .btn } | |
