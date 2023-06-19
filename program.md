@@ -49,6 +49,12 @@ nav_order: 3
 | Метод Ньютона. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/7_02.ipynb){: .btn} | Практика: реализация демпфированного метода Ньютона. Исследование сходимости. Сравнение с другими методами. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/7_2.ipynb){: .btn}
 | Квазиньютоновские методы. | Практика: бенчмаркинг квазиньютоновских методов. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/7_3.ipynb){: .btn} |
 
+## Занятие 9. [📄 Материалы](/presentations/9.pdf). [📝 Записи](/notes/9.pdf).
+
+| Метод стохастического градиентного спуска. Сходимость, батчи, эпохи, расписания. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/9_01.ipynb){: .btn} | Практика: исследование сходимости SGD. Подбор гиперпараметров. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/9_1.ipynb){: .btn} |
+| Нейронные сети. | Практика: Дообучение нейронных сетей aka transfer learning. Neural style transfer. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/10_1.ipynb){: .btn} |
+| Ландшафт функции потерь нейронной сети. | Практика: визуализация проекции функции потерь нейронной сети на прямую и плоскость. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/10_3.ipynb){: .btn} |
+
 <!-- 8 - градиент + ньютон\ квазиньютон
 
 9 - SGD Обучение нейронных сетей как задача оптимизации. Дообучение нейронных сетей aka transfer learning. Neural style transfer. Ландшафт функции потерь нейронной сети.
