@@ -10,7 +10,7 @@ nav_order: 4
 | Алексей Миронов    | [🐍 Code](https://colab.research.google.com/drive/1kThfp72T1qg2uHqcIWDM_EKaC74srFYg?usp=share_link){: .btn } | 💎 |
 | Алексей Чукеев   | [🐍 Code](https://colab.research.google.com/drive/1YDV-qnK6ui7Wv0Xu_OAsRP2hgUaIWJT2?usp=share_link){: .btn } | |
 | Андрей Резников    | [🐍 Code](https://colab.research.google.com/drive/1DNhPX0WBbCglyWMF7BejZNo1WmQnqO3r?usp=sharing){: .btn } | |
-| Андрей Семенишен    | [🐍 Code](https://colab.research.google.com/drive/1MZwytlzITGCUaUNklrElPL7lDakqcRYA?usp=sharing){: .btn } | |
+| Андрей Семенишен    | [🐍 Code](https://colab.research.google.com/drive/1MZwytlzITGCUaUNklrElPL7lDakqcRYA?usp=sharing){: .btn } | ✅ |
 | Андрей Степанов    | [🐍 Code](https://colab.research.google.com/drive/1qJUc_7MMp0zEyEdR4xYoGYLmcLIjsGqC?usp=share_link){: .btn } | ✅ |
 | Андрей Харский    | [🐍 Code](https://colab.research.google.com/drive/1cODbEeOi3BwuBsNfxMl8ndLrnGd-oNcJ?usp=sharing){: .btn } | |
 | Арсен Кузьмин    | [🐍 Code](https://colab.research.google.com/drive/15FYcklCDVNIZ_yiAo9koqdJA3l1MdgTy?usp=sharing){: .btn } | |
