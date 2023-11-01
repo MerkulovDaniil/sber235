@@ -17,7 +17,7 @@ nav_order: 4
 | Артем Моисеев    | [🐍 Code](https://colab.research.google.com/drive/14oijm3dXSPGBeUYo3HyP0-FkWzlLfd5l?usp=share_link){: .btn } | 💎 |
 | Вера Пушкарева    | [🐍 Code](https://colab.research.google.com/drive/1ZwMy4xwuwqRXCts7PZxdiyZGGSrqC_gK?usp=share_link){: .btn } | 💎 |
 | Дмитрий Федотов    | [🐍 Code](https://colab.research.google.com/drive/1Dp0zNMR2vSgkoa6qYNtxdQbMb67wRPuc?usp=sharing){: .btn } | |
-| Кирилл Козлов    | [🐍 Code](https://colab.research.google.com/drive/1FypgZtavZ5iQa2aRZmMeylubNg03BB9g?usp=sharing){: .btn } | |
+| Кирилл Козлов    | [🐍 Code](https://colab.research.google.com/drive/1FypgZtavZ5iQa2aRZmMeylubNg03BB9g?usp=sharing){: .btn } | ✅ |
 | Максим Борчашвили    | [🐍 Code](https://colab.research.google.com/drive/1wXdbrXnqE2xTzT9gu971x_S5zcn8oBbR?usp=sharing){: .btn } | 💎 |
 | Полина Тарасова    | [🐍 Code](https://colab.research.google.com/drive/1lut7LSRKCZm-ghUZzU1EvyoTDctVpebN?usp=sharing){: .btn } | ✅ |
 | Юрий Улановский    | [🐍 Code](https://colab.research.google.com/drive/1J2f4FQnMCvLMeZcJTOfop9Fbmofn4WXX?usp=sharing){: .btn } | 💎 |
